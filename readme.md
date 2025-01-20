@@ -5,7 +5,7 @@ Implementation of *Safe Multi-Agent Reinforcement Learning for Multi-Agent Forma
 ## Simulation Demo
 This demo shows the Multi-Agent Formation Obstacle Avoidance (MAFOA) for 3,4 and 5 agents in Multi-agent Particle Environment (MPE).  
 
-<img src="https://anonymous.4open.science/r/SMARL-MAFOA-85DC/demo/formation_3agents.gif" alt="3agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SMARL-MAFOA-85DC/demo/formation_4agents.gif" alt="4agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SMARL-MAFOA-85DC/demo/formation_5agents.gif" alt="5agents" style="width: 250px; height: 250px;" />  
+<img src="https://anonymous.4open.science/r/SMARL-MAFOA-85DC/demo/formation_3.gif" alt="3agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SMARL-MAFOA-85DC/demo/formation_4.gif" alt="4agents" style="width: 250px; height: 250px;" />  <img src="https://anonymous.4open.science/r/SMARL-MAFOA-85DC/demo/formation_5.gif" alt="5agents" style="width: 250px; height: 250px;" />  
 
 ## Hardware Experiments Demo
 This is the hardware experiments demo. We conduct three MAFOA tasks on 3,4 and 5 miniature vehicles respectively. These vehicles are omnidirectional mobile with Mecanum wheels and the motion capture system is used to obtain the true positions of agents. These hardware experiments have shown us the potential of using our method in practical multi-robot applications.
